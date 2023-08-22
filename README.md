@@ -12,4 +12,6 @@ Esse é um exercico do talento Cloud.
 - img
 - nav
 - header
+- main
+- footer
 
