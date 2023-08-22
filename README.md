@@ -19,4 +19,4 @@ Objetivo do projeto é: "Crie o corpo de uma página sobre lugares turísticos n
 - P
 - Footer
 - Img
--
+- Span
